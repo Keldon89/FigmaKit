@@ -1,2 +1,8 @@
-@import './fonts.css';
-@import './tailwind.css';
+/* PrimeReact core styles */
+@import 'primereact/resources/primereact.min.css';
+
+/* PrimeReact theme — Lara Light Blue (default) */
+@import 'primereact/resources/themes/lara-light-blue/theme.css';
+
+/* PrimeIcons */
+@import 'primeicons/primeicons.css';
